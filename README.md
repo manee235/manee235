@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">👋 Hey! Nice to see you.</h1>
 
-<!--
-**manee235/manee235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">I'm Maneesh Amindu</h2>
+<h4 align="center">HNDIT Undergraduate | CCNA Student @ University of Moratuwa</h4>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate developer who loves building modern applications and exploring networking.
+
+- 💻 Focused on **Software Development & Networking**
+- 🌱 Currently learning **Cloud & Advanced Networking**
+- 💬 Ask me about **Flutter, APIs, Databases**
+- 📩 Open for **freelance & collaboration**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,python,java,flutter,firebase,supabase,mysql,figma,gcp" />
+
+</p>
+
+---
+
+## ⚡ What I Do
+
+- 📱 Mobile App Development (Flutter)  
+- 🔗 API Integration & Backend  
+- 🗄️ Database Design (SQL)  
+- 🎨 UI/UX Design (Figma, Framer)  
+- ☁️ Cloud (Google Cloud Console)  
+
+---
+
+
