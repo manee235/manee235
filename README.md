@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey! Nice to see you.</h1>
 
 <h2 align="center">I'm Maneesh Amindu</h2>
-<h4 align="center">HNDIT Undergraduate | CCNA Student @ University of Moratuwa</h4>
+<h4 align="center">HNDIT Undergraduate @ SLIATE| CCNA Student @ University of Moratuwa</h4>
 
 ---
 
@@ -20,7 +20,7 @@ I'm a passionate developer who loves building modern applications and exploring 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,python,java,flutter,firebase,supabase,mysql,figma,gcp" />
+<img src="https://skillicons.dev/icons?i=cs,python,java,flutter,html,css,js,react,docker,postman,nodejs,firebase,supabase,mongodb,posgresql,mysql,figma,gcp" />
 
 </p>
 
