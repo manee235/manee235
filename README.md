@@ -2,6 +2,8 @@
 
 <h2 align="center">I'm Maneesh Amindu</h2>
 <h4 align="center">HNDIT Undergraduate @ SLIATE| CCNA Student @ University of Moratuwa</h4>
+<p align='center'>I'm a motivated undergraduate student currently pursuing **HNDIT** and studying **CCNA at University of Moratuwa**.  
+I enjoy building modern applications, exploring networking concepts, and turning ideas into real-world solutions.</p>
 
 ---
 
